@@ -43,7 +43,7 @@ If you wish to run the code on a hosted server, please ensure the host provider 
 3. Load the folder in your address bar. 
 
 For example: 
-http://www.yoursite.com/staging/khoabui-codechallenge/
+http://www.yoursite.com/staging/users-hierarchy/
 
 Your self hosted server should already have index.php configured in the php.ini file hence automatically run without you typing it in. 
 
