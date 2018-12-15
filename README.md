@@ -31,7 +31,7 @@ If you are running Mac, download MAMP (Mac, Apache, MySQL, PHP)
 1. Unzip the file contents.
 2. Copy over the folder into your htdocs directory
 3. Run your WAMP or MAMP
-4. Type in localhost:8888/khoabui-codechallenge
+4. Type in localhost:8888/user-hierarchy
 
 
 [Self Hosted]
