@@ -1,6 +1,4 @@
-# Project Title
-
-Users Hierarchy by Khoa Bui
+# Users Hierarchy by Khoa Bui
 
 ## Getting Started
 
