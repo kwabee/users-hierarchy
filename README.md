@@ -62,9 +62,7 @@ You can also double check the IDs in the inc_db_users.php and inc_db_roles.php f
 
 ## Author
 
-Khoa Bui
-email : kwabee@gmail.com
-phone : 0415 689 777
+Khoa 
 
 ## Notes
 
